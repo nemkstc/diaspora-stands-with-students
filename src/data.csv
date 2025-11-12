@@ -265,7 +265,7 @@ Zurich	Switzerland	01.03.2025	47.3774122,8.4543352	https://www.instagram.com/p/D
 Paris	France	01.03.2025	48.8588475,2.3058359	https://www.instagram.com/p/DGrEezntDNw/?img_index=1
 Lisbon	Portugal	02.03.2025	38.7440505,-9.2421367
 Boston	USA	01.03.2025	42.3602242,-71.0593503	https://www.instagram.com/p/DGrWzUEJm34/?img_index=1
-Houston	Texas	01.03.2025	29.836095,-95.46119
+Houston	Texas	01.03.2025	29.836095,-95.46119	https://www.instagram.com/p/DQQennxAASd/
 Austin	Texas	01.03.2025	30.2957009,-98.0626215	https://www.instagram.com/p/DGtgK0PRfQw543IgRvc8ZuQmL8Olc21yCpgBZ00/
 New York	USA	02.03.2025	40.8127901,-73.9602743	https://www.instagram.com/p/DGtpvxWSXFW/
 Las Vegas	USA	02.03.2025	36.125,-115.175	https://www.instagram.com/p/DG9OULsSGVN/
@@ -516,7 +516,7 @@ Cambridge	United Kingdom	04.05.2025	52.1988421,0.1199872	https://www.instagram.c
 Geneva	Switzerland	04.05.2025	46.2048226,6.1018394	https://www.instagram.com/p/DJPbepao_GZ/?img_index=1
 Narvik	Norway	03.05.2025	68.4353363,17.3811349	https://www.instagram.com/p/DJSIl_-OGeh/?img_index=1
 Edinbrugh	Scotland	04.05.2025	55.9411809,-3.2877387	https://www.instagram.com/p/DJPmV3pCaTo/?img_index=1
-Lisbon	Portugal	09.05.2025	38.7440505,-9.2421367
+Lisbon	Portugal	09.05.2025	38.7440505,-9.2421367	https://www.instagram.com/p/DJgwamlC4rk/
 Hague	Netherlands	10.05.2025	52.0716255,4.2274683	https://www.instagram.com/p/DJe4JriMvA5/
 Toronto	Canada	10.05.2025	43.7181228,-79.5428651	https://www.instagram.com/p/DJfz8NdM5Wx/?img_index=2
 Vancouver	Canada	10.05.2025	49.2829607,-123.1230464	https://www.instagram.com/p/DJgEXU2OZaE/
@@ -610,38 +610,79 @@ Cambridge	United Kingdom	14.09.2025	52.1988421,0.1199872	https://www.instagram.c
 Cambridge	United Kingdom	21.09.2025	52.1988421,0.1199872	https://www.instagram.com/p/DO38yt_CDeY/?igsh=MXR4azJ3YmU4c3R6ag==
 Cambridge	United Kingdom	28.09.2025	52.1988421,0.1199872	https://www.instagram.com/p/DPJZpkLiH6X/?igsh=MXc3Y3RiemE2enAyeg==
 Cambridge	United Kingdom	5.10.2025	52.1988421,0.1199872	https://www.instagram.com/p/DPb42PqCBvl/?igsh=MXh5ZG1rNXBjOXF4dQ==
-Cambridge	United Kingdom	14.10.2025	52.1988421,0.1199872	https://www.instagram.com/p/DPxN2iqiOR1/?igsh=c2J0YXN6OG14aDNo
-Cambridge	United Kingdom	20.10.2025	52.1988421,0.1199872	https://www.instagram.com/p/DQAj4iHCGE8/?igsh=NmI1emV1czdxZWJ2
+Cambridge	United Kingdom	12.10.2025	52.1988421,0.1199872	https://www.instagram.com/p/DPxN2iqiOR1/?igsh=c2J0YXN6OG14aDNo
+Cambridge	United Kingdom	19.10.2025	52.1988421,0.1199872	https://www.instagram.com/p/DQAj4iHCGE8/?igsh=NmI1emV1czdxZWJ2
 Toronto	Canada	19.10.2025	43.7181228,-79.5428651	https://www.instagram.com/p/DQAWW7fEjZ0/?igsh=MTI3dDhsb293Y3d4aw==
-Toronto	Canada	13.10.2025	43.7181228,-79.5428651	https://www.instagram.com/p/DPvDD2XDCNf/?img_index=1&igsh=cnRnZzV0YW1uZngz
+Toronto	Canada	12.10.2025	43.7181228,-79.5428651	https://www.instagram.com/p/DPvDD2XDCNf/?img_index=1&igsh=cnRnZzV0YW1uZngz
 Toronto	Canada	05.10.2025	43.7181228,-79.5428651	https://www.instagram.com/p/DPZuUOXki4-/?igsh=MWZzamlzeng0a29zcw==
 Toronto	Canada	28.09.2025	43.7181228,-79.5428651	https://www.instagram.com/reel/DPKO8Tfj2HH/?igsh=MXh0bDc5enhlZmlheg==
 Toronto	Canada	21.09.2025	43.7181228,-79.5428651	https://www.instagram.com/reel/DO4HTqrEgC9/?igsh=MWc1am5namZ6MzB4MQ==
 Toronto	Canada	14.09.2025	43.7181228,-79.5428651
 Toronto	Canada	07.09.2025	43.7181228,-79.5428651
-Toronto	Canada	01.11.2025	43.7181228,-79.5428651
-Cambridge	United Kingdom	01.11.2025	52.1988421,0.1199872
-Vancouver	Canada	01.11.2025	49.2829607,-123.1230464
-Ulm	Germany	01.11.2025	48.387589,9.9424448
-Cork	Ireland	01.11.2025	51.8987268,-8.4964919
-Bern	Switzerland	01.11.2025	46.954564,7.3125352
-Austin	Texas	01.11.2025	30.2957009,-98.0626215
-New York	USA	01.11.2025	40.8127901,-73.9602743
-Paris	France	01.11.2025	48.8588475,2.3058359
-Milan	Italy	01.11.2025	45.4627338,9.1777323
-Zagreb	Croatia	01.11.2025	45.8426563,15.7995574
-Barcelona	Spain	01.11.2025	41.3926386,2.0577885
-Ljubljana	Slovenia	01.11.2025	46.0656934,14.2202834
-Dublin	Ireland	01.11.2025	53.3242066,-6.4105094
-Prague	Czech	01.11.2025	50.0755381,14.4378005
-Melburn	Australia	01.11.2025	-37.9707261,144.3937342
-Los Angeles	California	01.11.2025	33.9799756,-118.4904588
-Frankfurt	Germany	01.11.2025	50.121212,8.6365638
-Athens	Greece	01.11.2025	37.99083,23.6971398
-Montreal	Canada	01.11.2025	45.5590642,-73.8766805
-Utrecht	Netherland	01.11.2025	52.084158,5.0000913
-Vienna	Austria	01.11.2025	48.2201153,16.2148364
-Hamburg	Germany	01.11.2025	53.558572,9.9278215
-Brussels	Belgium	01.11.2025	50.8390106,4.3700572
-Boston	USA	01.11.2025	42.3602242,-71.0593503
-Berlin	Germany	01.11.2025	52.5063862,13.0951023
+Porto	Portugal	16.03.2025	41.1621822,-8.6631532	https://www.instagram.com/p/DHzFZWKscRL/?img_index=1
+Lisbon	Portugal	16.03.2025	38.7440505,-9.2421367	https://www.instagram.com/p/DHcFge2MbGa/?img_index=1
+Toronto	Canada	01.11.2025	43.7181228,-79.5428651	https://www.instagram.com/p/DQj58Hwjutb/?img_index=1
+Cambridge	United Kingdom	01.11.2025	52.1988421,0.1199872	https://www.instagram.com/p/DQhHR8MCEke/?img_index=1
+Vancouver	Canada	01.11.2025	49.2829607,-123.1230464	https://www.instagram.com/p/DQj_hcpj6Ht/?img_index=1
+Ulm	Germany	01.11.2025	48.387589,9.9424448	https://www.instagram.com/p/DQhS-rOjUlI/?img_index=1
+Cork	Ireland	01.11.2025	51.8987268,-8.4964919	https://www.instagram.com/p/DQmClr3jL2V/
+Bern	Switzerland	01.11.2025	46.954564,7.3125352	https://www.instagram.com/p/DQhrI9qDON5/
+Austin	Texas	01.11.2025	30.2957009,-98.0626215	https://www.instagram.com/p/DQiQu3VDWUj/
+New York	USA	01.11.2025	40.8127901,-73.9602743	https://www.instagram.com/p/DQiAVKgkilv/?img_index=1
+Paris	France	01.11.2025	48.8588475,2.3058359	https://www.instagram.com/p/DQjwWKpDdVt/?img_index=18
+Milan	Italy	01.11.2025	45.4627338,9.1777323	https://www.instagram.com/p/DQhB4kpAhjn/
+Zagreb	Croatia	01.11.2025	45.8426563,15.7995574	https://www.instagram.com/p/DQhL3MAifB9/
+Barcelona	Spain	01.11.2025	41.3926386,2.0577885	https://www.instagram.com/p/DQhAuZGDClY-hgzPBruj4N684CTgc9JbSUby7w0/
+Ljubljana	Slovenia	01.11.2025	46.0656934,14.2202834	https://www.instagram.com/p/DQlvCuejDEl/?img_index=3
+Dublin	Ireland	01.11.2025	53.3242066,-6.4105094	https://www.instagram.com/p/DQoObO6DU0u/
+Prague	Czech	01.11.2025	50.0755381,14.4378005	https://www.instagram.com/p/DQjk2hTjHLc/?img_index=3
+Melburn	Australia	01.11.2025	-37.9707261,144.3937342	https://www.instagram.com/p/DQg4ChKAf1d/
+Los Angeles	California	01.11.2025	33.9799756,-118.4904588	https://www.instagram.com/p/DQhzilwElCk/?img_index=2
+Frankfurt	Germany	01.11.2025	50.121212,8.6365638	https://www.instagram.com/p/DQhDJwjjcN9/
+Athens	Greece	01.11.2025	37.99083,23.6971398	https://www.instagram.com/p/DQhGA-0iJ_J/
+Montreal	Canada	01.11.2025	45.5590642,-73.8766805	https://www.instagram.com/p/DQhm_KRkY08/
+Utrecht	Netherland	01.11.2025	52.084158,5.0000913	https://www.instagram.com/p/DQhgNIziK2o/
+Vienna	Austria	01.11.2025	48.2201153,16.2148364	https://www.instagram.com/p/DQhlAvKiJAm/?img_index=5
+Hamburg	Germany	01.11.2025	53.558572,9.9278215	https://www.instagram.com/p/DQhPH0FjKLd/?img_index=1
+Brussels	Belgium	01.11.2025	50.8390106,4.3700572	https://www.instagram.com/p/DQgwT3oil_X/
+Boston	USA	01.11.2025	42.3602242,-71.0593503	https://www.instagram.com/p/DQhwQMOiUnT/
+Berlin	Germany	01.11.2025	52.5063862,13.0951023	https://www.instagram.com/p/DQjNKXojH4s/?img_index=1
+Miami	Florida	01.11.2025	25.782414,-80.2253934	https://www.instagram.com/p/DQiU7IfDCFl/?img_index=1
+Houston	Texas	01.11.2025	29.836095,-95.46119	https://www.instagram.com/p/DQjgHwDAFkU/
+Chicago	Illinois	01.11.2025	41.8335928,-87.8966865
+Seattle	USA	01.11.2025	47.608715,-122.3397979	https://www.instagram.com/p/DQiIN0zj2mX/?img_index=1
+San Francisko	California	01.11.2025	37.7576713,-122.5200008	https://www.instagram.com/p/DQiFPsykiJ0/?img_index=1
+San Diego	California	01.11.2025	32.8240559,-117.4374096
+Washington	USA	01.11.2025	38.8899389,-77.0116254	https://www.instagram.com/p/DQhUUNCkWok/
+Nantucket	Massachusetts	01.11.2025	41.3163995,-70.3025565	https://www.instagram.com/p/DQhX7i0kY_X/
+Ottawa	Canada	01.11.2025	45.2496824,-76.1298957	https://www.instagram.com/p/DQhzth4kVHi/
+Edmonton	Canada	01.11.2025	53.5439543,-113.4925187	https://www.instagram.com/p/DQhjXUnAYiq/
+Munich	Germany	01.11.2025	48.154793,11.3770297	https://www.instagram.com/p/DQhM2QiAqc0/?img_index=3
+Madrid	Spain	01.11.2025	40.4378373,-3.8443444	https://www.instagram.com/p/DQlizpSjNuf/?img_index=3
+València	Spain	01.11.2025	39.4077852,-0.3615113	https://www.instagram.com/p/DQg8brBjSx3/
+Valleta	Malta	01.11.2025	35.9900489,14.325254
+Antwerpen	Belgium	01.11.2025	51.2603705,4.1985157	https://www.instagram.com/p/DQgwRqmCo1-/
+Stuttgart	Germany	01.11.2025	48.7791797,9.094815	https://www.instagram.com/p/DQoMspmjYV0/
+Florence	Italy	01.11.2025	43.8385481,9.9837225
+Malaga	Spain	01.11.2025	36.718222,-4.4492669
+Christchurch	New Zealand	01.11.2025	-43.5121424,172.5990013
+Rome	Italy	01.11.2025	41.9099533,12.3711899
+Helsinki	Finland	01.11.2025	60.1101638,25.0186803	https://www.instagram.com/p/DQhLX3lCKtB/
+Larnaca 	Cyprus	01.11.2025	34.9012545,33.5366928	https://www.instagram.com/p/DQkugUijLQf/?img_index=3
+Padua	Italy	01.11.2025	45.4064741,11.8088449
+London	England	01.11.2025	51.5285262,-0.2664039	https://www.instagram.com/p/DQg2QjTAsDX/
+Edinbrugh	Scotland	01.11.2025	55.9411809,-3.2877387	https://www.instagram.com/p/DQhhcxNgvOs/?img_index=1
+Glasgow	Scotland	01.11.2025	55.8554601,-4.2324585	https://www.instagram.com/p/DQhhcxNgvOs/?img_index=4
+Karlsruhe	Germany	01.11.2025	49.0158491,8.4095339	https://www.instagram.com/p/DQhIAltDDJ4/?img_index=1
+Linz	Austria	01.11.2025	48.2948877,14.245068	https://www.instagram.com/linzuzstudente/reel/DQhNLp6jf1e/
+Philadelphia	Pennsylvania	01.11.2025	40.0023812,-75.2828224
+Auckland	New Zealand	01.11.2025	-36.8601158,174.7062687
+Gold Coast	Queensland	01.11.2025	-27.9542216,153.3693614	https://www.instagram.com/p/DQi1XEdE-q9/
+Graz	Austria	01.11.2025	47.0731644,15.3595623
+Lausanne	Switzerland	01.11.2025	46.5287271,6.652336
+Lisbon	Portugal	01.11.2025	38.7440505,-9.2421367	https://www.instagram.com/p/DQiJgfPCDrE/
+Doha	Qatar	01.11.2025	25.2839176,51.3471863	https://www.instagram.com/p/DQjSJ-gDEhg/
+Narvik	Norway	01.11.2025	68.4353363,17.3811349
+Leipzig	Germany	01.11.2025	51.3416669,12.2288291
+Toronto	Canada	09.11.2025	43.7181228,-79.5428651	https://www.instagram.com/p/DQ2EMP3kYO1/?img_index=1
+Budapest	Hungary	09.11.2025	47.4810954,18.9654968	https://www.instagram.com/p/DQ2iDc7DNUz/
