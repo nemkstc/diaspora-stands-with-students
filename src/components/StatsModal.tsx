@@ -32,7 +32,7 @@ export const StatsModal = (props: ModalProps) => {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://github.com/nemanjakrstic/diaspora-stands-with-students"
+                href="https://github.com/nemkstc/diaspora-stands-with-students"
               >
                 GitHub
               </a>

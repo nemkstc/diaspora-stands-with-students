@@ -13,8 +13,8 @@ export const InfoModal = () => {
         <Message tpl={t.made_with_love_message}>
           {{
             neca: () => (
-              <a target="_blank" rel="noopener noreferrer" href="https://github.com/nemanjakrstic">
-                @nemanjakrstic
+              <a target="_blank" rel="noopener noreferrer" href="https://github.com/nemkstc">
+                @nemkstc
               </a>
             ),
 
